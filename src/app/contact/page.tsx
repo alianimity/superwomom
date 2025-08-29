@@ -196,7 +196,7 @@ export default function ContactPage() {
                 Request a Quote
               </h2>
               <p className="text-lg leading-8 text-neutral-300">
-                Tell us about your project and we'll provide a detailed quote within 24 hours.
+                Tell us about your project and we&apos;ll provide a detailed quote within 24 hours.
               </p>
             </div>
 
@@ -206,7 +206,7 @@ export default function ContactPage() {
                   <CheckCircle className="h-6 w-6 text-green-600" />
                   <div>
                     <h3 className="font-semibold text-green-800">Quote Request Submitted!</h3>
-                    <p className="text-green-700 text-sm">We'll contact you within 24 hours with a detailed quote.</p>
+                    <p className="text-green-700 text-sm">We&apos;ll contact you within 24 hours with a detailed quote.</p>
                   </div>
                 </div>
               </Card>
@@ -371,7 +371,7 @@ export default function ContactPage() {
                 </Button>
 
                 <p className="text-sm text-neutral-500 text-center">
-                  * Required fields. We'll respond within 24 hours with a detailed quote.
+                  * Required fields. We&apos;ll respond within 24 hours with a detailed quote.
                 </p>
               </form>
             </Card>
@@ -437,7 +437,7 @@ export default function ContactPage() {
               Need Emergency Cleaning Services?
             </h2>
             <p className="text-lg text-neutral-600 mb-8 max-w-3xl mx-auto">
-              Don't wait - our emergency response teams are available 24/7 for urgent cleaning situations. 
+              Don&apos;t wait - our emergency response teams are available 24/7 for urgent cleaning situations. 
               We can mobilize within 6 hours anywhere nationwide.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

@@ -150,7 +150,7 @@ export default function EventsServicePage() {
             <p className="text-lg leading-8 text-neutral-300 mb-8">
               Events have tight schedules and high expectations. Our experienced teams understand the pressure 
               of event logistics and deliver rapid, thorough cleaning that keeps your event running smoothly. 
-              Whether it's pre-event preparation or post-event restoration, we work seamlessly with event 
+              Whether it&apos;s pre-event preparation or post-event restoration, we work seamlessly with event 
               planners and venue managers to exceed expectations.
             </p>
             <div className="grid grid-cols-2 gap-8 md:grid-cols-4 text-center">
@@ -180,7 +180,7 @@ export default function EventsServicePage() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
-              What's Included
+              What&apos;s Included
             </h2>
             <p className="mt-4 text-lg leading-8 text-neutral-300">
               Comprehensive event cleaning services with rapid response and coordination.

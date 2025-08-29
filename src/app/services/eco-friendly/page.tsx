@@ -148,7 +148,7 @@ export default function EcoFriendlyServicePage() {
               Sustainable Cleaning Innovation
             </h2>
             <p className="text-lg leading-8 text-neutral-300 mb-8">
-              Environmental responsibility doesn't mean compromising on cleanliness. Our eco-friendly solutions 
+              Environmental responsibility doesn&apos;t mean compromising on cleanliness. Our eco-friendly solutions 
               combine the latest in green cleaning technology with smart monitoring systems to deliver exceptional 
               results while reducing environmental impact. Perfect for businesses pursuing sustainability goals 
               and health-conscious clients.
@@ -180,7 +180,7 @@ export default function EcoFriendlyServicePage() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
-              What's Included
+              What&apos;s Included
             </h2>
             <p className="mt-4 text-lg leading-8 text-neutral-300">
               Comprehensive eco-friendly solutions with smart technology integration.
@@ -281,7 +281,7 @@ export default function EcoFriendlyServicePage() {
               Start Your Green Journey
             </h2>
             <p className="mt-4 text-lg leading-8 text-neutral-300">
-              Choose SuperwoMOM for eco-friendly cleaning that's better for your health, your business, and the planet.
+              Choose SuperwoMOM for eco-friendly cleaning that&apos;s better for your health, your business, and the planet.
             </p>
             <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
               <Button size="lg" asChild className="text-lg px-8 py-3">

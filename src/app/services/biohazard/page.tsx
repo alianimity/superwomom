@@ -180,7 +180,7 @@ export default function BiohazardServicePage() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
-              What's Included
+              What&apos;s Included
             </h2>
             <p className="mt-4 text-lg leading-8 text-neutral-300">
               Comprehensive biohazard remediation with full regulatory compliance.
@@ -254,7 +254,7 @@ export default function BiohazardServicePage() {
               24/7 Emergency Biohazard Response
             </h3>
             <p className="text-lg text-neutral-600 mb-8 max-w-3xl mx-auto">
-              Biohazard emergencies can't wait. Our certified hazmat teams are available around the clock 
+              Biohazard emergencies can&apos;t wait. Our certified hazmat teams are available around the clock 
               for immediate response, containment, and professional cleanup. We understand the urgency and 
               handle every situation with the utmost care and discretion.
             </p>
@@ -281,7 +281,7 @@ export default function BiohazardServicePage() {
               Professional Biohazard Solutions
             </h2>
             <p className="mt-4 text-lg leading-8 text-neutral-300">
-              Trust SuperwoMOM's certified specialists for safe, compliant, and thorough biohazard remediation.
+              Trust SuperwoMOM&apos;s certified specialists for safe, compliant, and thorough biohazard remediation.
             </p>
             <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
               <Button size="lg" asChild className="text-lg px-8 py-3">
