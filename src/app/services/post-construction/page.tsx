@@ -9,14 +9,14 @@ import {
   Truck, 
   Sparkles, 
   HardHat,
-  Broom,
+  Trash2,
   ArrowRight,
   Phone
 } from "lucide-react"
 
 const includedServices = [
   {
-    icon: Broom,
+    icon: Trash2,
     title: "Debris Removal",
     description: "Complete removal of construction debris, packaging materials, and leftover building supplies.",
   },
