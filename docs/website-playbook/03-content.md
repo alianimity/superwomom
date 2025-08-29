@@ -12,6 +12,8 @@
 ## Testimonials & Social Proof
 - Use personal names; avoid company names unless approved
 - Use city/region for context, not exact addresses
+- Convert from company testimonials to personal testimonials during content cleanup
+- Remove any licensing language that suggests official partnerships or endorsements
 
 ## Numbers & Stats
 - Use realistic ranges (e.g., “500+ projects”, “10+ years” only if true)
@@ -24,6 +26,9 @@
 ## Content Blocks
 - Trust signals (3–4 items), feature lists, clear CTAs
 - Nationwide or regional scope stated accurately
+- Footer navigation must be updated when adding new service categories
+- Cross-service linking and recommendations to drive engagement
+- Consistent pricing tiers and terminology across all service pages
 
 ## Industry Notes
 - Tech: security, uptime, compliance (SOC2, ISO) only if verified

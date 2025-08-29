@@ -29,6 +29,9 @@ Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Nam
 2) Prepare SEO Title/Description per product
 3) Use Shopify CDN images or brand assets
 4) Validate column counts by comparing to a known-good CSV
+5) Create comprehensive pricing tiers (entry-level, mid-tier, premium) 
+6) Consider service bundles and package deals for higher value offerings
+7) Generate docs/services-catalog.md alongside CSV for website reference
 
 ## Example Generator Checklist
 - Product rows include: Title, Body (HTML), Vendor, Category, Type, Tags, Published, Option1 Name, Variant SKU, Price, Image Src, SEO fields, Status
@@ -38,3 +41,10 @@ Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Nam
 - Tech: Support Plans (Basic/Pro/Enterprise)
 - Health: Telehealth Packages (Initial, Follow-up, Annual)
 - Services: Maintenance Tiers (Basic, Seasonal, Annual)
+
+## Pricing Strategy Lessons
+- Include entry-level pricing ($50-200) to capture budget-conscious customers
+- Mid-tier services ($500-5,000) for standard projects
+- Premium offerings ($10,000-75,000+) for comprehensive solutions
+- Service bundles can increase average order value significantly
+- Consider geographic pricing variations and nationwide service capabilities

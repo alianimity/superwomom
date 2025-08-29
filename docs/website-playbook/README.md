@@ -12,7 +12,8 @@ Modules:
 - 07-deployment.md – Envs, build, Vercel, post-launch checks
 - 08-memory-bank-workflow.md – Documentation and decision tracking
 - 09-templates.md – Reusable code blocks and page skeletons
-- 10-contact-and-legal-requirements.md – Contact patterns and legal compliance
+- 10-portfolio-showcase.md – Visual galleries and project showcases
+- 11-service-expansion.md – Systematic approach to adding new service categories
 
 Who this is for: Product/brand teams and engineers creating professional, consistent, legally-safe, high-converting sites across industries.
 
@@ -20,14 +21,3 @@ Outcomes:
 - Consistent site with reusable patterns, modern stack, and accessible UX
 - Industry-safe content and trust signals
 - Optional Shopify catalog aligned to services and price tiers
-
-## Recent Updates (Linda Schmidt Trades Project)
-
-Key improvements added from real-world development experience:
-
-- **Tailwind v4 compatibility**: Updated color system and configuration patterns
-- **Client/Server component patterns**: Guidelines for icon passing and metadata handling  
-- **Performance optimizations**: CSS-only dropdowns, minimal Framer Motion usage
-- **Enhanced troubleshooting**: Comprehensive build error solutions and fixes
-- **Contact information standards**: Dual email system and update procedures
-- **Legal compliance**: Terms of Service and Privacy Policy requirements
