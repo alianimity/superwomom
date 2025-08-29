@@ -4,7 +4,6 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { 
   Building2, 
   Factory, 
-  ShieldCheck, 
   Hammer, 
   Home, 
   Calendar,
@@ -31,15 +30,7 @@ const services = [
     features: ["Equipment sanitization", "Hazard management", "EPA/OSHA compliance", "Heavy-duty cleaning"],
     timeline: "2-5 business days",
   },
-  {
-    name: "Biohazard & Specialized Remediation",
-    description: "Expert handling of medical facilities, post-accident sites, and environmental cleanups with certified teams.",
-    icon: ShieldCheck,
-    href: "/services/biohazard",
-    priceRange: "$500 - $40,000",
-    features: ["Hazmat expertise", "Medical facility cleaning", "Mold removal", "Infection control"],
-    timeline: "Emergency to 1 week",
-  },
+
   {
     name: "Post-Construction Cleanup",
     description: "Complete cleanup for commercial builds, remodels, and construction projects with debris removal.",
@@ -198,13 +189,13 @@ export default function ServicesPage() {
               <h3 className="text-xl font-semibold text-neutral-900 mb-4">Specialized Services</h3>
               <div className="text-3xl font-bold text-brand-primary mb-4">$5,000 - $50,000+</div>
               <p className="text-neutral-600 mb-6">
-                Complex industrial projects, biohazard remediation, large-scale facilities, and emergency response.
+                Complex industrial projects, large-scale facilities, and emergency response services.
               </p>
               <ul className="text-sm text-neutral-600 space-y-2">
                 <li>• Industrial facilities</li>
-                <li>• Biohazard remediation</li>
                 <li>• Large construction sites</li>
                 <li>• Emergency response</li>
+                <li>• Specialized equipment</li>
               </ul>
             </Card>
           </div>

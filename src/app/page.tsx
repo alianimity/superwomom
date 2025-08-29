@@ -6,7 +6,6 @@ import { AnimatedCounter } from "@/components/ui/animated-counter"
 import { 
   Building2, 
   Factory, 
-  ShieldCheck, 
   Hammer, 
   Home, 
   Calendar,
@@ -34,13 +33,7 @@ const services = [
     href: "/services/industrial",
     priceRange: "$2,000 - $15,000",
   },
-  {
-    name: "Biohazard & Remediation",
-    description: "Expert handling of medical facilities, post-accident sites, and environmental cleanups.",
-    icon: ShieldCheck,
-    href: "/services/biohazard",
-    priceRange: "$5,000 - $40,000",
-  },
+
   {
     name: "Post-Construction",
     description: "Complete cleanup for commercial builds, remodels, and construction projects.",
@@ -89,7 +82,7 @@ const process = [
 
 const testimonials = [
   {
-    content: "&quot;SuperwoMOM transformed our manufacturing facility cleanup. Their specialized team handled the biohazard remediation flawlessly, allowing us to reopen ahead of schedule.&quot;",
+    content: "&quot;SuperwoMOM transformed our manufacturing facility cleanup. Their specialized team handled the industrial cleaning flawlessly, allowing us to reopen ahead of schedule.&quot;",
     author: "Sarah Chen",
     title: "Operations Manager",
     location: "Atlanta, GA",
@@ -111,7 +104,7 @@ const testimonials = [
 const faqs = [
   {
     question: "What makes SuperwoMOM different from standard cleaning services?",
-    answer: "We specialize in high-value, complex cleaning projects requiring certified expertise, regulatory compliance, and advanced equipment. Our team handles specialized scenarios like biohazard remediation, post-construction cleanup, and luxury preservation that standard services cannot manage.",
+    answer: "We specialize in high-value, complex cleaning projects requiring certified expertise, regulatory compliance, and advanced equipment. Our team handles specialized scenarios like industrial cleaning, post-construction cleanup, and luxury preservation that standard services cannot manage.",
   },
   {
     question: "Do you really serve all 50 states?",

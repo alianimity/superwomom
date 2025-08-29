@@ -72,7 +72,7 @@ const serviceAreas = [
   {
     icon: Users,
     title: "Industrial & Specialized",
-    description: "Manufacturing, warehouses, biohazard remediation",
+    description: "Manufacturing, warehouses, industrial facilities",
     coverage: "Direct service + partner network",
   },
   {
@@ -294,8 +294,7 @@ export default function ContactPage() {
                       <option value="">Select a service</option>
                       <option value="commercial">Commercial & Office Cleaning</option>
                       <option value="industrial">Industrial & Warehouse</option>
-                      <option value="biohazard">Biohazard & Remediation</option>
-                      <option value="post-construction">Post-Construction</option>
+                      <option value="post-construction">Post-Construction Cleanup</option>
                       <option value="residential">Luxury Residential</option>
                       <option value="events">Event & Venue</option>
                       <option value="eco-friendly">Eco-Friendly Solutions</option>

@@ -6,7 +6,7 @@ import { Footer } from "@/components/layout/footer"
 export const metadata: Metadata = {
   title: "SuperwoMOM Cleaning LLC | Premium Nationwide Cleaning Services",
   description: "Professional cleaning services for commercial, industrial, and luxury clients. Eco-friendly practices, professional teams, 24/7 emergency response. Serving all 50 states.",
-  keywords: "commercial cleaning, industrial cleaning, biohazard remediation, post-construction cleaning, luxury residential cleaning, nationwide cleaning services",
+  keywords: "commercial cleaning, industrial cleaning, post-construction cleaning, luxury residential cleaning, nationwide cleaning services",
   icons: {
     icon: [
       { url: "/favicons/favicon-16x16.png", sizes: "16x16", type: "image/png" },

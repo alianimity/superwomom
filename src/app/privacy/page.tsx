@@ -102,7 +102,7 @@ export default function PrivacyPolicyPage() {
               For specialized services, additional privacy measures apply:
             </p>
             <ul className="text-neutral-300 space-y-2 ml-6">
-              <li>• <strong>Biohazard/Medical:</strong> HIPAA-compliant handling of sensitive areas</li>
+              <li>• <strong>Medical/Healthcare:</strong> HIPAA-compliant handling of sensitive areas</li>
               <li>• <strong>Industrial:</strong> Trade secret and proprietary information protection</li>
               <li>• <strong>Luxury Residential:</strong> Enhanced discretion and confidentiality protocols</li>
               <li>• <strong>Emergency Response:</strong> Rapid coordination while maintaining privacy</li>

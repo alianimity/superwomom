@@ -32,7 +32,7 @@ export default function TermsOfServicePage() {
             <ul className="text-neutral-300 space-y-2 ml-6">
               <li>• Commercial and office cleaning</li>
               <li>• Industrial and warehouse cleaning</li>
-              <li>• Biohazard and specialized remediation</li>
+              <li>• Industrial and specialized cleaning</li>
               <li>• Post-construction cleanup</li>
               <li>• Luxury residential and estate management</li>
               <li>• Event and venue cleaning</li>

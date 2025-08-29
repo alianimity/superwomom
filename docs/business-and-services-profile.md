@@ -34,24 +34,19 @@ SuperwoMOM Cleaning LLC provides a focused portfolio of services optimized for h
    - Includes equipment sanitization and hazard management (e.g., a full warehouse remediation for a mid-sized distributor invoiced at $15,000–$30,000).  
    - Compliant with EPA and OSHA, using heavy-duty tools.
 
-3. **Biohazard and Specialized Remediation**  
-   - Handling for medical offices, post-accident sites, or environmental cleanups.  
-   - High-value jobs like facility-wide decontamination (e.g., for a clinic or lab) invoice $20,000–$40,000, due to hazmat expertise and disposal.  
-   - Covers mold removal and infection control.
-
-4. **Post-Construction and Renovation Cleaning**  
+3. **Post-Construction and Renovation Cleaning**  
    - Cleanup for commercial builds, remodels, or expansions.  
    - Larger projects (e.g., a 30,000 sq ft site) routinely invoice $15,000–$35,000+, including debris haul-away and final detailing.
 
-5. **Luxury Residential and Estate Management**  
+4. **Luxury Residential and Estate Management**  
    - Elite services for affluent clients, including high-end homes and private assets.  
    - Custom cleanings (e.g., a 10,000 sq ft estate) invoice $8,000–$25,000, with premium detailing and preservation techniques.
 
-6. **Event and Venue Cleaning**  
+5. **Event and Venue Cleaning**  
    - Support for conferences, venues, and corporate events.  
    - Full-scale cleanups (e.g., for a 10,000-attendee event space) invoice $10,000–$30,000, focusing on quick turnaround.
 
-7. **Eco-Friendly and Tech-Enhanced Add-Ons**  
+6. **Eco-Friendly and Tech-Enhanced Add-Ons**  
    - Green materials and tech like app-based monitoring.  
    - Adds 20–40% to invoices for clients seeking sustainable upgrades.
 
@@ -68,7 +63,7 @@ SuperwoMOM Cleaning LLC employs a lean, agile model with centralized coordinatio
 
 - **Sustainability Focus:** 70% eco-friendly materials, appealing to premium clients and adding value to high-invoice jobs.
 
-- **Billing and Invoicing Model:** Clear, itemized pricing. Standard: $500–$5,000. Premium: $10,000–$50,000+ based on scale and specs (e.g., biohazard job at $25,000). Net-30 terms available.
+- **Billing and Invoicing Model:** Clear, itemized pricing. Standard: $500–$5,000. Premium: $10,000–$25,000+ based on scale and specs (e.g., large industrial project at $25,000). Net-30 terms available.
 
 - **Quality Assurance:** Satisfaction guarantee with follow-up audits; emergency response within 6 hours.
 

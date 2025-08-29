@@ -117,7 +117,7 @@ This contract complies with applicable federal, state, and local regulations inc
 
 **Site Safety:** All work follows OSHA safety standards and industry best practices
 **Environmental Compliance:** Use of approved cleaning products and proper waste disposal
-**Biohazard Protocols:** (If applicable) Strict adherence to CDC and state health department guidelines
+**Safety Protocols:** Strict adherence to professional cleaning standards and safety guidelines
 **Emergency Procedures:** 24/7 emergency response capability with certified technicians
 **Cleanup Standards:** Complete cleanup and waste removal included in all services
 
@@ -130,7 +130,7 @@ This contract complies with applicable federal, state, and local regulations inc
 - Security clearance requirements: [REQUIREMENTS]
 - Coordination with facility management: [CONTACT_INFO]
 
-### For Biohazard/Specialized Services:
+### For Specialized Services:
 - Regulatory compliance documentation: [AGENCIES]
 - Specialized equipment requirements: [EQUIPMENT_LIST]
 - Disposal and documentation protocols: [PROCEDURES]

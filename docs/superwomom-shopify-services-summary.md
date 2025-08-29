@@ -65,40 +65,7 @@ This catalog contains 69 distinct cleaning services organized into 7 main catego
 9. **Manufacturing Campus Management** - $15,000
    - Multi-facility industrial campus, coordinated cleaning, regulatory compliance
 
-### 3. **Biohazard & Specialized Remediation (10 Services)**
-**Price Range: $500 - $40,000**
-
-1. **Basic Biohazard Cleanup** - $500
-   - Small area biohazard cleanup, basic safety protocols, initial decontamination
-
-2. **Medical Waste Remediation** - $1,200
-   - Medical facility waste cleanup, health code compliance, documentation
-
-3. **Chemical Spill Response** - $2,500
-   - Chemical contamination cleanup, environmental safety protocols, disposal
-
-4. **Trauma Scene Cleanup** - $3,500
-   - Professional trauma scene remediation, psychological sensitivity, complete sanitization
-
-5. **Infectious Disease Decontamination** - $5,000
-   - Full facility decontamination, infectious disease protocols, medical-grade sanitization
-
-6. **Hoarding Cleanup Service** - $7,500
-   - Complete hoarding situation cleanup, safety assessment, debris removal
-
-7. **Mold Remediation Specialist** - $10,000
-   - Professional mold removal, air quality testing, prevention treatment
-
-8. **Hazmat Emergency Response** - $15,000
-   - 24/7 hazardous material emergency response, specialized equipment, full documentation
-
-9. **Large Scale Contamination** - $25,000
-   - Multi-room contamination cleanup, complete facility remediation, regulatory compliance
-
-10. **Industrial Accident Cleanup** - $40,000
-    - Major industrial accident remediation, multi-team coordination, regulatory oversight
-
-### 4. **Post-Construction & Renovation Cleaning (10 Services)**
+### 3. **Post-Construction & Renovation Cleaning (10 Services)**
 **Price Range: $200 - $25,000**
 
 1. **Renovation Cleanup Basic** - $200
@@ -131,7 +98,7 @@ This catalog contains 69 distinct cleaning services organized into 7 main catego
 10. **Large Commercial Complex** - $25,000
     - Multi-building commercial project, coordinated cleanup, project management
 
-### 5. **Luxury Residential & Estate Management (10 Services)**
+### 4. **Luxury Residential & Estate Management (10 Services)**
 **Price Range: $75 - $15,000**
 
 1. **Luxury Apartment Weekly** - $75
@@ -164,7 +131,7 @@ This catalog contains 69 distinct cleaning services organized into 7 main catego
 10. **Multi-Property Portfolio** - $15,000
     - Multiple luxury property management, coordinated scheduling, VIP service
 
-### 6. **Event & Venue Cleaning (11 Services)**
+### 5. **Event & Venue Cleaning (11 Services)**
 **Price Range: $100 - $20,000**
 
 1. **Small Party Cleanup** - $100
@@ -200,7 +167,7 @@ This catalog contains 69 distinct cleaning services organized into 7 main catego
 11. **Olympic Event Support** - $20,000
     - International event cleaning, security clearance, multi-venue coordination
 
-### 7. **Eco-Friendly & Tech-Enhanced Add-Ons (12 Services)**
+### 6. **Eco-Friendly & Tech-Enhanced Add-Ons (12 Services)**
 **Price Range: $20 - $10,000**
 
 1. **Green Product Upgrade** - $20
@@ -256,7 +223,7 @@ This catalog contains 69 distinct cleaning services organized into 7 main catego
 ### **Professional Service Categories**
 - **Business & Industrial > Cleaning Services** for commercial and industrial cleaning
 - **Business & Industrial > Professional Services** for consulting and management
-- **Health & Medical > Biohazard Cleanup** for specialized remediation
+- **Home & Garden > Renovation & Construction** for post-construction cleanup
 - Proper Google Shopping categories for better visibility
 
 ### **Nationwide Specialization**
@@ -282,4 +249,4 @@ This catalog contains 69 distinct cleaning services organized into 7 main catego
 6. **Emergency Services**: 24/7 availability clearly marked for urgent needs
 7. **Compliance**: All services meet national safety and environmental standards
 
-This catalog positions SuperwoMOM Cleaning LLC as the premier nationwide cleaning service provider with comprehensive capabilities from basic office cleaning to complex biohazard remediation, ready for immediate Shopify implementation and e-commerce sales.
+This catalog positions SuperwoMOM Cleaning LLC as the premier nationwide cleaning service provider with comprehensive capabilities from basic office cleaning to complex industrial and post-construction projects, ready for immediate Shopify implementation and e-commerce sales.

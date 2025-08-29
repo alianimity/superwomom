@@ -92,14 +92,9 @@ const pricingTiers = [
 
 const relatedServices = [
   {
-    name: "Biohazard & Remediation",
-    href: "/services/biohazard",
-    description: "Specialized cleanup for contamination and hazardous materials",
-  },
-  {
     name: "Post-Construction",
-    href: "/services/post-construction", 
-    description: "Complete cleanup after industrial construction projects",
+    href: "/services/post-construction",
+    description: "Complete cleanup for construction and renovation projects",
   },
   {
     name: "Commercial & Office",

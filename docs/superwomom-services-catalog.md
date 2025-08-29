@@ -57,35 +57,7 @@ Specialized cleaning for manufacturing sites, storage facilities, and logistics 
 
 ---
 
-## 3. Biohazard & Specialized Remediation Services
-
-Expert remediation and cleanup services for hazardous materials, trauma sites, and specialized contamination scenarios.
-
-### Services:
-- **Basic Biohazard Cleanup** - $500
-  - Small area biohazard cleanup, basic safety protocols, initial decontamination
-- **Medical Waste Remediation** - $1,200
-  - Medical facility waste cleanup, health code compliance, documentation
-- **Chemical Spill Response** - $2,500
-  - Chemical contamination cleanup, environmental safety protocols, disposal
-- **Trauma Scene Cleanup** - $3,500
-  - Professional trauma scene remediation, psychological sensitivity, complete sanitization
-- **Infectious Disease Decontamination** - $5,000
-  - Full facility decontamination, infectious disease protocols, medical-grade sanitization
-- **Hoarding Cleanup Service** - $7,500
-  - Complete hoarding situation cleanup, safety assessment, debris removal
-- **Mold Remediation Specialist** - $10,000
-  - Professional mold removal, air quality testing, prevention treatment
-- **Hazmat Emergency Response** - $15,000
-  - 24/7 hazardous material emergency response, specialized equipment, full documentation
-- **Large Scale Contamination** - $25,000
-  - Multi-room contamination cleanup, complete facility remediation, regulatory compliance
-- **Industrial Accident Cleanup** - $40,000
-  - Major industrial accident remediation, multi-team coordination, regulatory oversight
-
----
-
-## 4. Post-Construction & Renovation Cleaning Services
+## 3. Post-Construction & Renovation Cleaning Services
 
 Complete cleanup and detailing services for construction sites, renovation projects, and new building preparation.
 
@@ -113,7 +85,7 @@ Complete cleanup and detailing services for construction sites, renovation proje
 
 ---
 
-## 5. Luxury Residential & Estate Management Services
+## 4. Luxury Residential & Estate Management Services
 
 High-end residential cleaning and ongoing estate management services for luxury homes and properties.
 
@@ -141,7 +113,7 @@ High-end residential cleaning and ongoing estate management services for luxury 
 
 ---
 
-## 6. Event & Venue Cleaning Services
+## 5. Event & Venue Cleaning Services
 
 Specialized cleaning for events, conferences, weddings, and venue management with rapid response capabilities.
 
@@ -171,7 +143,7 @@ Specialized cleaning for events, conferences, weddings, and venue management wit
 
 ---
 
-## 7. Eco-Friendly & Tech-Enhanced Add-On Services
+## 6. Eco-Friendly & Tech-Enhanced Add-On Services
 
 Sustainable cleaning solutions and technology-enhanced services to complement any cleaning project.
 

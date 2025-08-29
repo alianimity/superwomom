@@ -14,7 +14,7 @@ const navigation = [
     submenu: [
       { name: "Commercial & Office Cleaning", href: "/services/commercial" },
       { name: "Industrial & Warehouse", href: "/services/industrial" },
-      { name: "Biohazard & Remediation", href: "/services/biohazard" },
+
       { name: "Post-Construction", href: "/services/post-construction" },
       { name: "Luxury Residential", href: "/services/residential" },
       { name: "Event & Venue", href: "/services/events" },

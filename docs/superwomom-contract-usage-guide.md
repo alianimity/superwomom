@@ -52,35 +52,28 @@
 - **Insurance:** Enhanced coverage for industrial risks
 - **Special Provisions:** OSHA compliance, hazardous material handling
 
-### 3. Biohazard & Specialized Remediation Contracts
-**Service Range:** $500 - $40,000
-- **Focus:** Trauma cleanup, infectious disease decontamination, hazmat response
-- **Key Terms:** Emergency response, regulatory compliance, specialized certification
-- **Insurance:** Maximum liability coverage, specialized biohazard coverage
-- **Special Provisions:** CDC guidelines, state health department approvals, disposal documentation
-
-### 4. Post-Construction & Renovation Contracts
+### 3. Post-Construction & Renovation Contracts
 **Service Range:** $200 - $25,000
-- **Focus:** Construction cleanup, renovation finishing, new building preparation
-- **Key Terms:** Final inspection standards, move-in ready certification
-- **Insurance:** Construction-specific coverage
-- **Special Provisions:** Builder coordination, quality guarantees
+- **Focus:** Construction cleanup, renovation detailing, debris removal
+- **Key Terms:** Project coordination, timeline compliance, quality standards
+- **Insurance:** Standard construction liability coverage
+- **Special Provisions:** Final walk-through requirements, debris disposal, client approval
 
-### 5. Luxury Residential & Estate Management Contracts
+### 4. Luxury Residential & Estate Management Contracts
 **Service Range:** $75 - $15,000
 - **Focus:** High-end residences, estate management, VIP services
 - **Key Terms:** Privacy protocols, premium service standards, concierge support
 - **Insurance:** High-value property coverage, employee bonding
 - **Special Provisions:** Confidentiality agreements, security clearances, luxury care standards
 
-### 6. Event & Venue Cleaning Contracts
+### 5. Event & Venue Cleaning Contracts
 **Service Range:** $100 - $20,000
 - **Focus:** Corporate events, venues, festivals, emergency cleanup
 - **Key Terms:** Rapid response, event coordination, flexible scheduling
 - **Insurance:** Event-specific liability coverage
 - **Special Provisions:** Crowd management support, vendor coordination
 
-### 7. Eco-Friendly & Tech-Enhanced Service Contracts
+### 6. Eco-Friendly & Tech-Enhanced Service Contracts
 **Service Range:** $20 - $10,000
 - **Focus:** Green cleaning upgrades, technology integration, sustainability consulting
 - **Key Terms:** Environmental compliance, technology implementation, reporting
@@ -157,7 +150,7 @@ Ensure all contracts include current contact information:
 ## Service-Specific Contract Modifications
 
 ### Emergency Services Addendum
-For biohazard, industrial accidents, or urgent situations:
+For industrial accidents or urgent situations:
 - 24/7 response guarantee
 - Premium pricing for emergency calls
 - Expedited completion timelines
@@ -188,7 +181,7 @@ For smart monitoring and eco-friendly services:
 
 ### Insurance Requirements by Service Type
 - **Standard Commercial:** $1M general liability
-- **Industrial/Biohazard:** $2M+ specialized coverage
+- **Industrial/Specialized:** $2M+ specialized coverage
 - **Luxury Residential:** High-value property protection
 - **Nationwide Operations:** Multi-state coverage verification
 
@@ -197,7 +190,7 @@ For smart monitoring and eco-friendly services:
 - [ ] Local business permits where required
 - [ ] EPA compliance for chemical handling
 - [ ] OSHA safety training and certification
-- [ ] State health department approvals (biohazard services)
+- [ ] State health department approvals (medical facility services)
 - [ ] Professional liability insurance
 - [ ] Workers' compensation coverage
 - [ ] Employee background check procedures
