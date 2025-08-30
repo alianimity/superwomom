@@ -20,7 +20,7 @@
   - 4 Shopify CSV files with all 69 services ready for import
 - **COMPLETED**: Contact information updates (December 2024)
   - Phone: (929) 992-8498 (updated from (800) SUPER-MOM)
-  - Email: welcom@supawomom.com (general), support@supawomom.com
+  - Email: welcome@supawomom.com (general), support@supawomom.com
   - Location: West Columbia, SC 29170
 - **COMPLETED**: Legal compliance updates
   - Removed all specific certification claims (OSHA, LEED, ISO)

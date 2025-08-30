@@ -44,9 +44,9 @@ Develop a full-blown professional website for SuperwoMOM Cleaning LLC, a premium
 - Integration-ready for future Shopify catalog if needed
 
 ## Contact Information to Integrate
-- **Phone**: (800) SUPER-MOM (800-787-3766)
+- **Phone**: (929) 992-8498
 - **Email**: welcome@supawomom.com (general), support@supawomom.com (support)
-- **Address**: 789 River Rd, West Columbia, SC 29169
+- **Address**: West Columbia, SC, 29170
 - **CEO**: Shada Hill
 - **Social**: LinkedIn, Instagram @SuperwoMOMCleaning
 

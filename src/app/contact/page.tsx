@@ -31,9 +31,9 @@ const contactMethods = [
     icon: Mail,
     title: "Email",
     description: "Send us a detailed message",
-    contact: "welcom@supawomom.com",
+    contact: "welcome@supawomom.com",
     subtext: "General inquiries and quotes",
-    action: "mailto:welcom@supawomom.com",
+    action: "mailto:welcome@supawomom.com",
     available: "Response within 4 hours",
   },
   {

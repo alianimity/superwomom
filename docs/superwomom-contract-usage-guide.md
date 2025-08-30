@@ -142,7 +142,7 @@
 
 Ensure all contracts include current contact information:
 - **Phone:** (929) 992-8498 (24/7 emergency line)
-- **General Email:** welcom@supawomom.com
+- **General Email:** welcome@supawomom.com
 - **Support Email:** support@supawomom.com
 - **Headquarters:** West Columbia, SC 29170
 - **Website:** [Your deployed website URL]

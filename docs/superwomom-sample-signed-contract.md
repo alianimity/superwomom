@@ -20,7 +20,7 @@ SuperwoMOM Cleaning LLC
 428 Professional Plaza Drive  
 West Columbia, SC 29170  
 Phone: (929) 992-8498  
-General Email: welcom@supawomom.com  
+General Email: welcome@supawomom.com  
 Support Email: support@supawomom.com  
 SC Business License: LLC-2024-SC-001  
 Federal EIN: 88-9876543

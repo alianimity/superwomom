@@ -165,9 +165,9 @@ export function Navbar() {
                                     </Link>
                                   </Button>
                                   <Button variant="ghost" size="sm" asChild className="w-full justify-start">
-                                    <Link href="mailto:welcom@supawomom.com" className="flex items-center gap-x-2">
+                                    <Link href="mailto:welcome@supawomom.com" className="flex items-center gap-x-2">
                                       <Mail className="h-4 w-4" />
-                                      welcom@supawomom.com
+                                      welcome@supawomom.com
                                     </Link>
                                   </Button>
                       <Button variant="default" size="sm" asChild className="w-full">

@@ -143,7 +143,7 @@ Specialized cleaning for events, conferences, weddings, and venue management wit
 
 ---
 
-## 6. Eco-Friendly & Tech-Enhanced Add-On Services
+## 6. c
 
 Sustainable cleaning solutions and technology-enhanced services to complement any cleaning project.
 
@@ -237,5 +237,5 @@ All services available across all 50 states with local expertise and nationwide 
 ---
 
 *Last Updated: December 2024*
-*For current pricing and availability, contact: welcom@supawomom.com | (929) 992-8498*
+*For current pricing and availability, contact: welcome@supawomom.com | (929) 992-8498*
 *Support: support@supawomom.com | Emergency Response: 24/7 Nationwide*

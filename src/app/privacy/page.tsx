@@ -147,10 +147,10 @@ export default function PrivacyPolicyPage() {
               For privacy questions or to exercise your rights, contact us:
             </p>
             <ul className="text-neutral-300 space-y-2">
-              <li><strong>Privacy Officer:</strong> Shada Hill, CEO</li>
-              <li><strong>Phone:</strong> Call Now (800-787-3766)</li>
-              <li><strong>Email:</strong> welcom@supawomom.com</li>
-              <li><strong>Mail:</strong> 789 River Rd, West Columbia, SC 29169</li>
+              <li><strong>Privacy Officer:</strong> SuperwoMOM Cleaning LLC</li>
+              <li><strong>Phone:</strong> (929) 992-8498</li>
+              <li><strong>Email:</strong> welcome@supawomom.com</li>
+              <li><strong>Mail:</strong> West Columbia, SC, 29170</li>
             </ul>
           </div>
 

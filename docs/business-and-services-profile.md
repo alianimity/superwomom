@@ -91,8 +91,8 @@ Operations prioritize efficiency, such as off-hours work, making us suitable for
 - **CFO: Sophia Lee** – CPA experienced in startup scaling.
 
 ## **Contact Information**
-- **Headquarters:** 789 River Rd, West Columbia, SC 29169
-- **Phone:** (800) SUPER-MOM (800-787-3766)
+- **Headquarters:** West Columbia, SC, 29170
+- **Phone:** (929) 992-8498
 - **Email:** welcome@supawomom.com (general inquiries); support@supawomom.com (customer support)
 - **Website:** supawomom.com (under development)
 - **Social Media:** LinkedIn, Instagram @SuperwoMOMCleaning

@@ -20,7 +20,7 @@ SuperwoMOM Cleaning LLC
 [Business Address]  
 West Columbia, SC 29170  
 Phone: (929) 992-8498  
-General Email: welcom@supawomom.com  
+General Email: welcome@supawomom.com  
 Support Email: support@supawomom.com  
 SC Business License: [LICENSE_NUMBER]  
 Federal EIN: [EIN_NUMBER]
