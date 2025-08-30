@@ -347,7 +347,7 @@ export default function HomePage() {
                 <div className="text-xs text-neutral-400">Green Solutions</div>
               </StaggerItem>
               <StaggerItem className="flex flex-col items-center">
-                <ShieldCheck className="h-8 w-8 text-brand-primary mb-2" />
+                <CheckCircle className="h-8 w-8 text-brand-primary mb-2" />
                 <div className="text-sm font-medium text-white">Quality Assured</div>
                 <div className="text-xs text-neutral-400">Excellence Standards</div>
               </StaggerItem>
