@@ -18,22 +18,21 @@ Develop a full-blown professional website for SuperwoMOM Cleaning LLC, a premium
 - **Forms**: react-hook-form + zod validation
 - **Deployment**: Vercel
 
-## Key Business Services to Highlight
+## Key Business Services to Highlight (6 categories after biohazard removal)
 1. Commercial and Office Cleaning (Standard to Premium Scale)
 2. Industrial and Warehouse Cleaning  
-3. Biohazard and Specialized Remediation
-4. Post-Construction and Renovation Cleaning
-5. Luxury Residential and Estate Management
-6. Event and Venue Cleaning
-7. Eco-Friendly and Tech-Enhanced Add-Ons
+3. Post-Construction and Renovation Cleaning
+4. Luxury Residential and Estate Management
+5. Event and Venue Cleaning
+6. Eco-Friendly and Tech-Enhanced Add-Ons
 
 ## Unique Value Propositions
-- Boutique expertise with certified professionals
+- Boutique expertise with professional standards
 - Nationwide flexibility through partnership model
 - Innovation and sustainability focus
 - 85% client retention rate
 - 24/7 emergency response capability
-- OSHA-compliant, LEED certified, ISO 9001 quality management
+- Professional safety compliance and quality management standards
 
 ## Success Criteria
 - Professional, trustworthy website that justifies premium pricing
@@ -43,12 +42,12 @@ Develop a full-blown professional website for SuperwoMOM Cleaning LLC, a premium
 - Fast loading performance and SEO optimization
 - Integration-ready for future Shopify catalog if needed
 
-## Contact Information to Integrate
-- **Phone**: (929) 992-8498
+## Contact Information to Integrate (standardized December 2024)
+- **Phone**: (929) 992-8498 (consistently updated across all files)
 - **Email**: welcome@supawomom.com (general), support@supawomom.com (support)
-- **Address**: West Columbia, SC, 29170
-- **CEO**: Shada Hill
-- **Social**: LinkedIn, Instagram @SuperwoMOMCleaning
+- **Address**: West Columbia, SC, 29170 (consistently updated)
+- **Company**: SuperwoMOM Cleaning LLC (personal references removed)
+- **Social**: LinkedIn, Instagram @SuperwoMOMCleaning (removed from footer per user request)
 
 ## Compliance and Legal Requirements
 - Terms of Service and Privacy Policy pages mandatory
